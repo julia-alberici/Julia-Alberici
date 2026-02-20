@@ -1,4 +1,4 @@
-## console.info("Hi, glad you are here :)")
+## console.info("Oh, hi?")
 
 <img align="left" width="300" src="https://github.com/Julia-Alberici/Julia-Alberici/blob/main/Assets/cat-notebook.gif"/>
 
